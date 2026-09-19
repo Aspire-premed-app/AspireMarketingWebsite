@@ -315,10 +315,10 @@ section { border-top: 1px solid var(--rule-soft); }
 
 /* ---------- contact ---------- */
 
+/* colour comes from .closer p and .closer a:not(.btn) above */
 .contact-line {
-  margin-top: 20px;
-  font-family: var(--serif);
-  font-size: clamp(21px, 3vw, 28px);
+  margin-top: 28px;
+  font-size: 15px;
 }
 
 /* ---------- footer ---------- */
